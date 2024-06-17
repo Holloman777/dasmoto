@@ -1,0 +1,54 @@
+h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    Font-weight: bold;
+    Color: khaki;
+    background-image: url("../pattern\ \(1\).webp");
+    text-align: center;
+    
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    Color: white;
+    background-color: mediumspringgreen;
+    
+     
+
+}
+h3 {
+    font-weight: bold;
+    color: Black;
+    text-align: left;
+    font-family: Helvetica;
+}
+
+p {
+    text-align: left;
+    color: Black;
+    font-family: Helvetica;
+}
+
+h4 {
+    background-color: lightcoral;
+    font-size: 32px;
+    font-family: Helvetica;
+    color: white;
+}
+  h5 {
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    font-family: Helvetica;
+  }  
+
+  h6{
+    background-color: lightblue;
+    font-size: 32px;
+    font-family: Helvetica;
+    color: white;
+  }
+
+
