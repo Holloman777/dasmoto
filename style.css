@@ -3,7 +3,7 @@ h1 {
     font-size: 100px;
     Font-weight: bold;
     Color: khaki;
-    background-image: url("../pattern\ \(1\).webp");
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg");
     text-align: center;
     
 }
@@ -13,10 +13,6 @@ h2 {
     font-size: 32px;
     font-weight: bold;
     Color: white;
-    background-color: mediumspringgreen;
-    
-     
-
 }
 h3 {
     font-weight: bold;
@@ -31,24 +27,20 @@ p {
     font-family: Helvetica;
 }
 
-h4 {
-    background-color: lightcoral;
-    font-size: 32px;
-    font-family: Helvetica;
-    color: white;
-}
-  h5 {
-    font-weight: bold;
-    color: black;
-    text-align: left;
-    font-family: Helvetica;
-  }  
+  .brushes{
+    background-color: mediumspringgreen;
+  }
 
-  h6{
+  .frames{
+    background-color: lightcoral;
+  }
+
+  .paint{
     background-color: lightblue;
-    font-size: 32px;
-    font-family: Helvetica;
-    color: white;
+  }
+  .bluetext{
+    font-weight: bold;
+    color: blue;
   }
 
 
